@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["write_flags","Used in `AdtDatum` and `TraitDatum` to write n flags from a flags struct to a writer. Each flag field turns into an if expression + write!, so we can just list the names and not repeat this pattern over and over."]]});

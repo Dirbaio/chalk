@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["add_generator_program_clauses","Add implicit impls of the generator trait, i.e., add a clause that all generators implement `Generator` and clauses for `Generator`’s associated types."]]});
